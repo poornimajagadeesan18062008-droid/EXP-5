@@ -16,7 +16,7 @@ S.No	Name of the Apparatus	Range	Quantity
 7	Connecting Wires	As Required	
 
 CIRCUIT DIAGRAM:
-
+![alt text](511.png)
 
 THEORY:
 	
